@@ -1406,7 +1406,7 @@ function initMap() {
       <div class="tourCard__content px-10 pt-15">
         <div class="tourCard__location d-flex items-center text-13 text-light-2">
           <i class="icon-pin d-flex text-16 text-light-2 mr-5"></i>
-          New York, USA
+          Pokhara, Lakeside, Nepal
         </div>
         
         <h3 class="tourCard__title text-16 fw-500 mt-10">
@@ -2436,12 +2436,12 @@ function liveSearch() {
 
   const data = [
     { icon: "icon-pin", title: "Phuket", text: "Thailand, Asia" },
-    { icon: "icon-price-tag", title: "London Day Trips", text: "England" },
+    { icon: "icon-price-tag", title: "Pokhara Day Trips", text: "England" },
     { icon: "icon-flag", title: "Europe", text: "Country" },
     { image: "img/misc/icon.png", title: "Centipede Tour - Guided Arizona Desert Tour by ATV", text: "Country" },
     { icon: "icon-pin", title: "Istanbul", text: "Turkey" },
     { icon: "icon-pin", title: "Berlin", text: "Germany, Europe" },
-    { icon: "icon-pin", title: "London", text: "England, Europe" },
+    { icon: "icon-pin", title: "Pokhara", text: "England, Europe" },
   ]
 
   targets.forEach(el => {
