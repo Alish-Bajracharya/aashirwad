@@ -1584,7 +1584,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .text-52 {
-  font-size: var(--text-52) !important;
+  font-size: var(--text-30) !important;
 }
 
 .text-60 {
@@ -2693,7 +2693,7 @@ h1, h2, h3, h4, h5, h6 {
 .footer.-type-1 .footer__grid {
   display: grid;
   grid-template-columns: 270px 250px 1fr 1fr;
-  gap: 80px;
+  gap: 60px;
 }
 
 @media (max-width: 1199px) {
@@ -8848,16 +8848,15 @@ body.is-cursor-active * {
 }
 
 .bg-accent-1 {
-  background-color: var(--color-accent-1) !important;
+  background-color: #123173 !important;
 }
 
 .bg-accent-2 {
-  background-color: var(--color-accent-2) !important;
+  background-color: #ffefdf !important;
 }
 
 .bg-light-1 {
-  background-color: var(--color-light-1) !important;
-}
+    background-color: #ffe0ab !important;}
 
 .bg-light-2 {
   background-color: var(--color-light-2) !important;
