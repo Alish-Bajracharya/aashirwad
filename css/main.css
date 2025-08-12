@@ -660,7 +660,10 @@ img {
   max-width: 100%;
   height: auto;
 }
-
+logo {
+  max-width: 100%;
+  height: auto;
+}
 a {
   color: inherit;
   font-size: inherit;
@@ -1995,7 +1998,9 @@ h1, h2, h3, h4, h5, h6 {
   left: 50%;
   transform: translateX(-50%);
 }
-
+  .header__logo img {
+    height: 100px;
+  }
 @media (max-width: 575px) {
   .header__logo img {
     height: 32px;
@@ -8848,7 +8853,7 @@ body.is-cursor-active * {
 }
 
 .bg-accent-1 {
-  background-color: #123173 !important;
+  background-color: #4a6eb9 !important;
 }
 
 .bg-accent-2 {
