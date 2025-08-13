@@ -4019,6 +4019,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   height: 100%;
   z-index: -1;
+
 }
 
 .pageHero.-type-1 .pageHero__bg img {
@@ -4037,7 +4038,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .pageHero.-type-1 .pageHero__title {
   font-size: 92px;
-  line-height: 0.65;
+  line-height: 0.95;
+
 }
 
 @media (max-width: 991px) {
@@ -4063,6 +4065,8 @@ h1, h2, h3, h4, h5, h6 {
   max-width: 100%;
   margin: 0 auto;
   margin-top: 50px;
+  color: #ffffff;
+  background: #050b5c8e;
 }
 
 @media (max-width: 991px) {
@@ -4157,7 +4161,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .pageHero.-type-2 .pageHero__title {
   font-size: 92px;
-  line-height: 0.65;
+  line-height: 0.75;
 }
 
 @media (max-width: 991px) {
@@ -5224,7 +5228,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 20px;
   left: 20px;
   border-radius: 16px 0 16px 0;
-  line-height: 0.65;
+  line-height: 0.75;
   padding: 15px 10px;
 }
 
@@ -5241,7 +5245,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 30px;
   left: 30px;
   border-radius: 16px 0 16px 0;
-  line-height: 0.65;
+  line-height: 0.75;
   padding: 15px 10px;
 }
 
