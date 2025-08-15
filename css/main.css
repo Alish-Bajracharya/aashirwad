@@ -9008,7 +9008,7 @@ body.is-cursor-active * {
 }
 
 .text-white-60 {
-  color: rgba(255, 255, 255, 0.6);
+  color: rgb(221, 221, 221);
 }
 
 .text-sec {
